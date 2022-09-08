@@ -12,10 +12,7 @@ class Solution {
                 
                   sol[0]=i;
                   sol[1]=j;
-                }
-
-                    
-                
+                }   
             }
             
         }
